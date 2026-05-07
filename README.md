@@ -2,7 +2,7 @@
 
 **Exploring research gaps across the full AI compute stack — from silicon to swarms.**
 
-Building open-source tools and runing experiments at the edges of what's documented. Bare-metal hardware optimization, model architecture, agentic orchestration.
+Building open-source tools and running experiments at the edges of what's documented. Bare-metal hardware optimization, model architecture, agentic orchestration.
 
 This is an independent research lab operated by [Matthew West](https://github.com/matty-west).
 
