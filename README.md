@@ -23,7 +23,7 @@ Multi-agent orchestration, deterministic state machines, scalable routing. How a
 
 ## Featured Work
 
-- **[sme-jit-core](https://github.com/dawn-state/sme-jit-core)** — A Rust JIT harness for reverse-engineering and executing matrix coprocessor instructions on Apple Silicon M4. Beats Apple's Accelerate framework by 2.5×, validated at `max_diff = 0.0`.
+- **sme-jit-core** — A Rust JIT harness for reverse-engineering and executing matrix coprocessor instructions on Apple Silicon M4. Beats Apple's Accelerate framework by 2.5×, validated at `max_diff = 0.0`. (message for PAT)
 
 ---
 
