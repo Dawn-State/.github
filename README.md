@@ -4,8 +4,6 @@
 
 Building open-source tools and running experiments at the edges of what's documented. Bare-metal hardware optimization, model architecture, agentic orchestration.
 
-This is an independent research lab operated by [Matthew West](https://github.com/matty-west).
-
 ---
 
 ## Research
